@@ -1,0 +1,5 @@
+001,day ta,vai,5,5
+002,a,bung,7,5
+003,dau,co,8,9
+006,cong kim,dau buoi,8,7
+017,hieu,@,17,4
